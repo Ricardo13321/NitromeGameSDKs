@@ -4,12 +4,17 @@ Hello, this repository contains SDKs for some Nitrome games, I made some modific
 What do I need to play? You will need a Flash emulator, I recommend <a href="https://ruffle.rs/" target="_blank">Ruffle Desktop</a>, then download it and the game's SDK file to play.
 
 The controls for each player are configured as:
-Control 1: 
-Right Arrow -> Right
-Left Arrow  -> Left
-Up Arrow    -> Up
-Down Arrow  -> Down
-Space -> Action
+
+<p>
+  Control 1:
+  Right Arrow -> Right
+  Left Arrow  -> Left
+  Up Arrow    -> Up
+  Down Arrow  -> Down
+  Space -> Action
+</p>
+ 
+
 
 Control 2: 
 D -> Right
