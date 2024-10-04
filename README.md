@@ -1,7 +1,7 @@
 # NitromeGameSDKs
 Hello, this repository contains SDKs for some Nitrome games, I made some modifications so that it works without internet access and can play with a maximum of 4 players again.
 
-What do I need to play? You will need a Flash emulator, I recommend (Ruffle Desktop)[https://ruffle.rs/], then download it and the game's SDK file to play.
+What do I need to play? You will need a Flash emulator, I recommend Ruffle Desktop[https://ruffle.rs/], then download it and the game's SDK file to play.
 
 The controls for each player are configured as:
 Control 1: 
